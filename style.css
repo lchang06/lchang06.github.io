@@ -6,30 +6,34 @@ body {
 	font-size: 14px;
 	font-weight: normal;
 	color: #FFFFFF;
+	margin: 100px;
 }
 
 h1 {
-	text-align: center;
+	text-align: left;
 	font-size: 50px;
-	font-weight: bolder;
+	font-weight: bold;
 }
 
 h2 {
-	text-align: center;
+	text-align: left;
 	font-size: 25px;
 	font-weight: bold;
+	padding-left: 200px;
 }
 
 h3{
 	text-align: left;
 	font-size: 14px;
 	font-weight: bold;
+	padding-left: 200px;
 }
 
 h4{
 	text-align: left;
 	font-size: 14 px;
 	font-style: normal;
+	padding-left: 200px;
 }
 
 p{
@@ -37,8 +41,5 @@ p{
 	font-size: 14px;
 	font-weight: normal;
 	line-height: 50%;
-}
-
-ul {
-	border-left: 5px #FFFFFF solid;
+	padding-left: 200px;
 }
