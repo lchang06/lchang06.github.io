@@ -1,11 +1,11 @@
 /* Style Sheet */
 
 body {
-	background-color: #3C3C3C;
+	background-color: #262626;
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 14px;
-	font-weight: 
-	color: white;
+	font-weight: normal;
+	color: #FFFFFF;
 }
 
 h1 {
@@ -35,9 +35,10 @@ h4{
 p{
 	text-align: left;
 	font-size: 14px;
-	font-weight: lighter;
+	font-weight: normal;
+	line-height: 50%;
 }
 
 ul {
-	border-left: 5px #000000 solid;
+	border-left: 5px #FFFFFF solid;
 }
