@@ -29,14 +29,16 @@ h3{
 	font-weight: bold;
 	padding-left: 100px;
 	letter-spacing: 2px;
+	line-height: .2;
 }
 
 h4{
 	text-align: left;
-	font-size: 16 px;
+	font-size: 18 px;
 	font-style: normal;
 	padding-left: 100px;
 	letter-spacing: 1px;
+	line-height: .2;
 }
 
 p{
@@ -44,7 +46,12 @@ p{
 	font-size: 16px;
 	font-weight: normal;
 	padding-left: 100px;
+	line-height: .2;
 }
 ul{
-	padding-left: 116px;
+	text-align: left;
+	font-size: 16px;
+	font-weight: normal;
+	padding-left: 118px;
+	line-height: 1.5;
 }
