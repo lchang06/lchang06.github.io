@@ -1,0 +1,9 @@
+/* Style Sheet for index.html */
+body{ 
+	background-color: #262626;
+	font-family: "Helvetica Neue", sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	color: #FFFFFF;
+	margin: 100px;
+}
