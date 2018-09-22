@@ -1,0 +1,15 @@
+/* Style Sheet */
+
+body {
+
+	background-color: #3C3C3C;
+	font-family: "Univers";
+	font-size: 16px;
+	color: white;
+}
+
+h1 {
+
+	text-align: center;
+	font-size: 32px;
+}
