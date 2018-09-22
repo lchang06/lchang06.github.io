@@ -1,0 +1,33 @@
+/* Style Sheet for index.html */
+body{ 
+	background-color: #262626;
+	font-family: "Helvetica Neue", sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	color: #FFFFFF;
+	margin: 100px;
+}
+
+h1{
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	letter-spacing: 4px;
+	line-height: .8px;
+}
+
+p{
+	line-height: 2.0;
+}
+
+img.centerpic{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 75px;
+	margin-bottom: 50px;
+}
+
+p.center{
+	text-align: center;
+}
